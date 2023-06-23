@@ -40,6 +40,9 @@ Each task is organized into its own folder, with the code and related resources 
 
 - A correlation plot is a type of plot that shows the relationship between two variables. The correlation coefficient is a value between -1 and 1 that represents the strength of the relationship between two variables. A correlation coefficient of 1 indicates a perfect positive correlation, while a correlation coefficient of -1 indicates a perfect negative correlation. A correlation coefficient of 0 indicates no relationship between the two variables.
 
+###### Below is an example of a count plot generated from the `category` column of the dataset:
+![Alt text](/img/image2.png)
+
 ### Task 2: Data Science Process
 
 **What I learned in this task:**
