@@ -29,9 +29,12 @@ Each task is organized into its own folder, with the code and related resources 
 - How to use Python to analyze real-world datasets (e.g., transaction data from a grocery store)
 - Generate insights from the data and report my findings to the Data Science Team Leader to help them better understand the business and make informed decisions
 - I used `Pandas`, `Matplotlib`, and `Seaborn` libraries to analyze the data
-
+Below is an example of a distribution plot generated from the `unit price` column of the dataset:
 ![Alt text](img/image.png)
+Below is an example of a distribution plot generated from the `quantity` column of the dataset:
 ![Alt text](img/image-1.png)
+
+![Alt text](img/correlation.png)
 
 ### Task 2: Data Science Process
 
