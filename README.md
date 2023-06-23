@@ -1,19 +1,31 @@
 # Cognizant AI Virtual Job Simulation
 
-This repository contains the **five** tasks I completed during the Cognizant Virtual Job Simulation offered by Forage.
-
-It took me a total of **1 week** to complete this job simulation.
+Welcome to my Cognizant AI Virtual Job Simulation repository. This repository contains my work on the five tasks I completed during the Cognizant Virtual Job Simulation offered by Forage. I completed this job simulation within a week. 
 
 ## Table of Contents
-- [Task 1: Data Analysis](#task-1-data-analysis)
-- [Task 2: The Data Science Process](#task-2-the-data-science-process)
-- [Task 3: Modeling Predictive Machine Learning Processes](#task-3-modeling-predictive-machine-learning-processes)
-- [Task 4: Develop a Python module](#task-4-develop-a-python-module)
-- [Task 5: Evaluating the production Machine Learning Model](#task-5-evaluating-the-production-machine-learning-model)
+1. [Introduction](#introduction)
+2. [How to Use](#how-to-use)
+3. [Tasks](#tasks)
+   - [Task 1: Data Analysis](#task-1-data-analysis)
+   - [Task 2: Data Science Process](#task-2-data-science-process)
+   - [Task 3: Modeling Predictive Machine Learning Processes](#task-3-modeling-predictive-machine-learning-processes)
+   - [Task 4: Develop a Python Module](#task-4-develop-a-python-module)
+   - [Task 5: Evaluating the Machine Learning Model](#task-5-evaluating-the-machine-learning-model)
+4. [Certificate of Completion](#certificate-of-completion)
 
-## Task 1: Data Analysis
+## Introduction
 
-**<u>What I learned in this task:</u>**
+This repository presents my journey through the Cognizant Virtual Job Simulation offered by Forage. 
+
+## How to Use
+
+Each task is organized into its own folder, with the code and related resources available for review. 
+
+## Tasks
+
+### Task 1: Data Analysis
+
+**What I learned in this task:**
 - How to use Python to analyze real-world datasets (e.g., transaction data from a grocery store)
 - Generate insights from the data and report my findings to the Data Science Team Leader to help them better understand the business and make informed decisions
 - I used `Pandas`, `Matplotlib`, and `Seaborn` libraries to analyze the data
@@ -21,17 +33,24 @@ It took me a total of **1 week** to complete this job simulation.
 ![Alt text](img/image.png)
 ![Alt text](img/image-1.png)
 
-## Task 2: The Data Science Process
+### Task 2: Data Science Process
 
-**<u>What I learned in this task:</u>**
+**What I learned in this task:**
 - How to use the data science process to solve a real-world problem
 
-## Task 3: Modeling Predictive Machine Learning Processes
+### Task 3: Modeling Predictive Machine Learning Processes
 
-## Task 4: Develop a Python module to load a CSV file into a data frame and immediately start training the data
+**<Coming Soon>**
 
+### Task 4: Develop a Python Module
 
-## Task 5: Evaluating the production Machine Learning Model to ensure quality results
+**<Coming Soon>**
 
+### Task 5: Evaluating the Machine Learning Model
+
+**<Coming Soon>**
 
 ## Certificate of Completion
+
+![Alt text](img/completion.png)
+
