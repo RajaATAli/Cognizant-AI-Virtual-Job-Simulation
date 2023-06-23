@@ -52,5 +52,5 @@ Each task is organized into its own folder, with the code and related resources 
 
 ## Certificate of Completion
 
-![Alt text](img/completion.png)
+![Alt text](img/completion.jpg)
 
