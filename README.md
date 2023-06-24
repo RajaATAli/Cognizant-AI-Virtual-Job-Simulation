@@ -1,6 +1,6 @@
 # Cognizant AI Virtual Job Simulation
 
-Welcome to my Cognizant AI Virtual Job Simulation repository. This repository contains my work on the five tasks I completed during the Cognizant Virtual Job Simulation offered by Forage. I completed this job simulation within a week. 
+Welcome to my Cognizant AI Virtual Job Simulation repository. This repository contains my work on the five tasks I completed during the Cognizant Virtual Job Simulation offered by Forage. I completed this job simulation within a week and I acted as a `Data Scientist at Cognizant.`
 
 ## Table of Contents
 1. [Introduction](#introduction)
