@@ -46,7 +46,15 @@ Each task is organized into its own folder, with the code and related resources 
 ### Task 2: Data Science Process
 
 **What I learned in this task:**
-- How to use the data science process to solve a real-world problem
+- How to use the data science process (`CRISP-DM` and `OSEMN` Framework) to solve a real-world problem
+- Developed a solution (in the form of a powerpoint presentation) to accurately predict product stock levels based on sales and sensor data.
+- How to review a data model diagram and identify the data sources and data types that will be used to train a machine learning model
+###### The Data Model Diagram below shows the data sources and data types that will be used to train a machine learning model:
+![Alt text](img/Data_Model.png)
+
+###### The Powerpoint presentation below shows the solution I developed to accurately predict product stock levels based on sales and sensor data (This was sent to the Data Science Team Leader and Client): 
+![Alt text](img/obj_1.jpg)
+
 
 ### Task 3: Modeling Predictive Machine Learning Processes
 
