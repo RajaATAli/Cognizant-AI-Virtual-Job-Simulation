@@ -57,9 +57,18 @@ Each task is organized into its own folder, with the code and related resources 
 
 
 ### Task 3: Modeling Predictive Machine Learning Processes
-
-**<Coming Soon>**
-
+This task really challenged me as this was the first time I was exposed to machine learning. My job was to combine, transform and model datasets to answer the problem statement that the business had requested. 
+**What I learned in this task:**
+- I learned how to use the `scikit-learn` library to train a machine learning model to predict product stock levels based on sales and sensor data.
+- `Data cleaning` by making sure that the data is in the correct format and that there are no missing values.
+- `Merging` and `aggregating` data from multiple sources to create a single dataset, so that it can be used to train a machine learning model.
+- `Feature engineering` by creating new features from existing features in the dataset.
+- Training a `Random Forest Regressor` model to predict product stock levels based on sales and sensor data.
+- Difference between `classification` and `regression` machine learning models.
+- `K-fold` cross-validation to evaluate the performance of a machine learning model.
+- Using `MAE` (Mean Absolute Error) and `RMSE` (Root Mean Squared Error) to evaluate the performance of a machine learning model.
+- Using `matplotlib` and `numpy` to visualize the performance of the machine learning model:
+![Alt text](img/ML.png)
 ### Task 4: Develop a Python Module
 
 **<Coming Soon>**
