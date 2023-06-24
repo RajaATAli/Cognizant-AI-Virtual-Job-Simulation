@@ -7,9 +7,9 @@ from sklearn.metrics import mean_absolute_error
 from sklearn.preprocessing import StandardScaler
 
 #global constants
-SALES_DATA_PATH = "/content/sample_data/sales.csv"
-STOCK_DATA_PATH = "/content/sample_data/sensor_stock_levels.csv"
-TEMP_DATA_PATH = "/content/sample_data/sensor_storage_temperature.csv"
+SALES_DATA_PATH = "/Users/rajaallmdar/Desktop/Cognizant AI Virual Job Experience/Data/sales.csv"
+STOCK_DATA_PATH = "/Users/rajaallmdar/Desktop/Cognizant AI Virual Job Experience/Data/sensor_stock_levels.csv"
+TEMP_DATA_PATH = "/Users/rajaallmdar/Desktop/Cognizant AI Virual Job Experience/Data/sensor_storage_temperature.csv"
 TARGET_VARIABLE = "estimated_stock_pct"
 CROSS_VALIDATION_FOLDS = 10
 TRAIN_SIZE = 0.75

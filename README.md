@@ -70,12 +70,17 @@ This task really challenged me as this was the first time I was exposed to machi
 - Using `matplotlib` and `numpy` to visualize the performance of the machine learning model:
 ![Alt text](img/ML.png)
 ### Task 4: Develop a Python Module
+- The task involved transforming the existing Python notebook, containing a promising machine learning model developed for Gala Groceries, into a production-ready Python module capable of training the model and outputting performance metrics when executed.
 
-**<Coming Soon>**
+**What I learned in this task:**
+- Gained experience in writing production-quality python code, understanding and adhering to best practices for code clarity. 
 
 ### Task 5: Evaluating the Machine Learning Model
+- This was a quiz, which invlolved reviewing the model performance metrics and answering questions to enhance the algorithm before integration with the Gala Groceries system.
+**What I learned in this task:**
+- Gained insights into the model performance metrics and how to improve the model performance.
+- Improving my knowledge regarding refining Machine Learning Algorithms, preparing me to handle questions in future interviews related to model performance metrics and adaptation to live data.
 
-**<Coming Soon>**
 
 ## Certificate of Completion
 
