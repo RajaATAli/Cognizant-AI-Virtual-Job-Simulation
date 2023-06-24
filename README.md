@@ -57,7 +57,8 @@ Each task is organized into its own folder, with the code and related resources 
 
 
 ### Task 3: Modeling Predictive Machine Learning Processes
-This task really challenged me as this was the first time I was exposed to machine learning. My job was to combine, transform and model datasets to answer the problem statement that the business had requested. 
+This task really challenged me as this was the first time I was exposed to machine learning. My job was to combine, transform and model datasets to answer the problem statement that the business had requested.
+ 
 **What I learned in this task:**
 - I learned how to use the `scikit-learn` library to train a machine learning model to predict product stock levels based on sales and sensor data.
 - `Data cleaning` by making sure that the data is in the correct format and that there are no missing values.
@@ -77,6 +78,7 @@ This task really challenged me as this was the first time I was exposed to machi
 
 ### Task 5: Evaluating the Machine Learning Model
 - This was a quiz, which invlolved reviewing the model performance metrics and answering questions to enhance the algorithm before integration with the Gala Groceries system.
+
 **What I learned in this task:**
 - Gained insights into the model performance metrics and how to improve the model performance.
 - Improving my knowledge regarding refining Machine Learning Algorithms, preparing me to handle questions in future interviews related to model performance metrics and adaptation to live data.
